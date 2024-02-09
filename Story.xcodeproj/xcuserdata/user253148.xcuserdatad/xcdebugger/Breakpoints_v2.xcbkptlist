@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3EDBE52C-6F58-43A9-B383-419E1E2A4981"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E4FDD33-BD4F-412C-B3AD-DD88B401DF40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Story/InfoVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "721466E0-F03C-49AE-8310-66D8DB2402FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Story/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F036168-F5C9-4902-86C6-D07B429D8679"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Story/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FB1CE05-542D-4497-8F90-3CB4F4F9FC5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Story/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
