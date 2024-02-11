@@ -28,6 +28,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
+https://github.com/MakhtarJ/Story/assets/156578739/5959fc87-deaa-453a-a749-30c05491206c
+
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
