@@ -2,7 +2,7 @@
 
 Submitted by: Makhtar Junior Niang
 
-Story is an app that introduces ... [TODO] 
+Story is an app that introduces ... OmniMan 
 
 Time spent: 4 hours spent in total
 
